@@ -3,14 +3,17 @@ ul{
     margin: 0;
      padding: 0;
      overflow:hidden;
-     background-color: green;
 }
 
 li{
     float: left;
+    padding: 14px 14px;
 }
 
 li a{
     text-decoration: none;
-    padding: 10px 10px;
+    padding: 5px 5px;
+    text-align: center;
+    color: white;
 }
+
